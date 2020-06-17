@@ -1,0 +1,161 @@
+
+@media(max-width: 1200px){
+    .row{
+        margin: 0 15px;
+    }
+    .hero-text-box{
+        width: 90%;
+    }
+    .main-nav{
+        display: block;
+    }
+    
+}
+
+@media(max-width: 1024px){
+   
+    .client-photo img{
+        margin-left: 20px;
+    }
+    .main-nav{
+        display: none;
+    }
+     .logo{
+        margin-top: 10px;
+    }
+    .sticky .logo{
+        margin-top: 10px;
+    }
+    .mobile-menu span{
+        margin-top: 10px;
+        display: block;
+       
+    }
+}
+
+@media(max-width: 991px){
+    h2{
+        font-size: 30px;
+    }
+    section{
+        padding: 50px 0;
+        
+    }
+    .hero-text-box{
+        width: 100%;
+        font-size: 20px;
+    }
+    .btn{
+        padding: 15px 35px;
+    }
+    .litile-description{
+        width: 100%;
+        margin-left: 0;
+    }
+    .span_1_of_4{
+        width:  49.2%;
+        margin-left: 0;
+    } 
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+}
+}
+
+@media(max-width: 767px){
+    h2{
+        font-size: 30px;
+    }
+    section{
+        padding: 50px 0;
+        
+    }
+    .hero-text-box{
+        width: 100%;
+        font-size: 20px;
+    }
+    .btn{
+        padding: 15px 35px;
+    }
+    .litile-description{
+        width: 100%;
+        margin-left: 0;
+    }
+    .span_1_of_4{
+        width:  49.2%;
+        margin-left: 0;
+    } 
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+}
+
+
+@media(max-width: 575px){
+    header{
+        height: 90vh;
+    }
+    .hero-text-box {
+       width: 40%;
+    }
+    .hero-text-box h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    section{
+        padding: 50px 0;
+        
+    }
+    .span_1_of_4{
+        width:  100%;
+    } 
+    .hero-text-box{
+        width: 100%;
+    }
+    .btn{
+        padding: 10px 30px;
+    }
+    .litile-description{
+        width: 100%;
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .box h3{
+        font-size: 18px;
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .testimonial p{
+        font-size: 14px;
+    }
+    footer ul li{
+        margin: 0 10px;
+    }
+    footer ul li a{
+        font-size: 16px;
+    }
+}
